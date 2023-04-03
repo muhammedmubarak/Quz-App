@@ -1,74 +1,125 @@
 [
+{
+"title": "من هو الرسول الذي نزل عليه القرآن الكريم؟",
+"answer_1": "موسى",
+"answer_2": "عيسى",
+"answer_3": "محمد",
+"answer_4": "نوح",
+"right_answer": "محمد"
+},
+{
+"title": "ما هو أول شهر في التقويم الهجري؟",
+"answer_1": "رمضان",
+"answer_2": "شوال",
+"answer_3": "ذو الحجة",
+"answer_4": "محرم",
+"right_answer": "محرم"
+},
+{
+"title": "ما هي السورة الأولى في القرآن الكريم؟",
+"answer_1": "الفاتحة",
+"answer_2": "البقرة",
+"answer_3": "النحل",
+"answer_4": "الكهف",
+"right_answer": "الفاتحة"
+},
+{
+"title": "من هو أول من قبل الإسلام؟",
+"answer_1": "عمر بن الخطاب",
+"answer_2": "أبو بكر الصديق",
+"answer_3": "علي بن أبي طالب",
+"answer_4": "خديجة بنت خويلد",
+"right_answer": "خديجة بنت خويلد"
+},
+{
+"title": "من هو النبي الذي بنى سفينة لإنقاذ نفسه وأتباعه من الطوفان؟",
+"answer_1": "نوح",
+"answer_2": "هود",
+"answer_3": "صالح",
+"answer_4": "إبراهيم",
+"right_answer": "نوح"
+},
   {
-    "title": "Why We Use <br> Element",
-    "answer_1": "To Make Text Bold",
-    "answer_2": "To Make Text Italic",
-    "answer_3": "To Add Breakline",
-    "answer_4": "To Create Horizontal Line",
-    "right_answer": "To Add Breakline"
+    "title": "ما هي أول كلمة نزلت في القرآن الكريم؟",
+    "answer_1": "اقرأ",
+    "answer_2": "بسم الله الرحمن الرحيم",
+    "answer_3": "الحمد لله",
+    "answer_4": "لا إله إلا الله",
+    "right_answer": "بسم الله الرحمن الرحيم"
   },
   {
-    "title": "Is <img> Element Has Attribute href",
-    "answer_1": "Yes",
-    "answer_2": "No Its For Anchor Tag <a>",
-    "answer_3": "All Elements Has This Attribute",
-    "answer_4": "Answer 1 And 3 Is Right",
-    "right_answer": "No Its For Anchor Tag <a>"
+    "title": "ما هي أول سورة نزلت في القرآن الكريم؟",
+    "answer_1": "الفاتحه",
+    "answer_2": "البقرة",
+    "answer_3": "الرحمن",
+    "answer_4": "يس",
+    "right_answer": "الفاتحه"
   },
   {
-    "title": "How Can We Make Element Text Bold",
-    "answer_1": "Putting It Inside <b> Tag",
-    "answer_2": "Putting It Inside <strong> Tag",
-    "answer_3": "Customizing It With Font-Weight Property In CSS",
-    "answer_4": "All Answers Is Right",
-    "right_answer": "All Answers Is Right"
+    "title": "من هو أول نبي أرسله الله؟",
+    "answer_1": "نوح",
+    "answer_2": "آدم",
+    "answer_3": "إبراهيم",
+    "answer_4": "موسى",
+    "right_answer": "آدم"
   },
   {
-    "title": "What Is The Right Hierarchy For Creating Part Of Page",
-    "answer_1": "<h2> Then <p> Then <h1> Then <p> Then <h3> Then <p> Then <img>",
-    "answer_2": "<h1> Then <p> Then <h3> Then <p> Then <h2> Then <p> Then <img>",
-    "answer_3": "<h2> Then <p> Then <h3> Then <p> Then <h1> Then <p> Then <img>",
-    "answer_4": "All Solutions Is Wrong",
-    "right_answer": "All Solutions Is Wrong"
+    "title": "من هو أبو زوجة النبي محمد صلى الله عليه وسلم السيده عائشه؟",
+    "answer_1": "حمزة",
+    "answer_2": "عمر بن الخطاب",
+    "answer_3": "أبو بكر الصديق",
+    "answer_4": "علي بن أبي طالب",
+    "right_answer": "أبو بكر الصديق"
   },
   {
-    "title": "How Can We Include External Page Inside Our HTML Page",
-    "answer_1": "By Using Include in HTML",
-    "answer_2": "By Using Load In HTML",
-    "answer_3": "By Using iFrame Tag",
-    "answer_4": "All Solutions Is Wrong",
-    "right_answer": "By Using iFrame Tag"
-  },
-  {
-    "title": "What Is The Tag That Not Exists in HTML",
-    "answer_1": "<object>",
-    "answer_2": "<basefont>",
-    "answer_3": "<abbr>",
-    "answer_4": "All Tags Is Exists in HTML",
-    "right_answer": "All Tags Is Exists in HTML"
-  },
-  {
-    "title": "How We Specify Document Type Of HTML5 Page",
-    "answer_1": "<DOCTYPE html>",
-    "answer_2": "<DOCTYPE html5>",
-    "answer_3": "<!DOCTYPE html5>",
-    "answer_4": "<!DOCTYPE html>",
-    "right_answer": "<!DOCTYPE html>"
-  },
-  {
-    "title": "What Is The Element Thats Not Exists in HTML5 Semantics",
-    "answer_1": "<article>",
-    "answer_2": "<section>",
-    "answer_3": "<blockquote>",
-    "answer_4": "<aside>",
-    "right_answer": "<blockquote>"
-  },
-  {
-    "title": "In HTML Can We Use This Way To Add Attributes",
-    "answer_1": "<div class='class-name'>",
-    "answer_2": "<div class=class-name>",
-    "answer_3": "<div class=\"class-name\">",
-    "answer_4": "All Is Right",
-    "right_answer": "All Is Right"
+    "title": "ما هي أولى سور القرآن التي نزلت بعد سورة الفاتحة؟",
+    "answer_1": "سورة النساء",
+    "answer_2": "سورة المدثر",
+    "answer_3": "سورة الكهف",
+    "answer_4": "سورة يوسف",
+    "right_answer": "سورة المدثر"
   }
+,
+{
+"title": "من هو أول رسول بعثه الله بعد ما اشرك الناس؟",
+"answer_1": "نوح",
+"answer_2": "موسى",
+"answer_3": "عيسى",
+"answer_4": "محمد",
+"right_answer": "نوح"
+},
+{
+"title": "ما هو أسمى الأسماء الحسنى؟",
+"answer_1": "الرحمن",
+"answer_2": "الرحيم",
+"answer_3": "الملك",
+"answer_4": "القدوس",
+"right_answer":"الرحمن"
+},
+{
+"title": "ما عدد ركعات صلاة التراويح؟",
+"answer_1": "11",
+"answer_2": "8",
+"answer_3": "13",
+"answer_4": "12",
+"right_answer": "11"
+},
+{
+  "title": "ما عدد ركعات السنه بعد صلاه العشاء؟",
+  "answer_1": "5",
+  "answer_2": "4",
+  "answer_3": "3",
+  "answer_4": "2",
+  "right_answer": "5"
+}
+,{
+"title": "متى توفي النبي عليه الصلاة والسلام ؟",
+"answer_1": " السنة الحادية عشرة للهجرة",
+"answer_2": " السنة الثالثة عشرة للهجرة",
+"answer_3": " السنة العاشرة عشرة للهجرة",
+"answer_4": " السنة الرابعة عشرة للهجرة",
+
+
+"right_answer": "السنة الحادية عشرة للهجرة"
+}
 ]
