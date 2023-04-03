@@ -101,3 +101,23 @@ body {
 .quiz-app .results span.perfect {
   color: #0075ff;
 }
+
+
+@media screen and (max-width: 600px) {
+  div.quiz-app {
+     max-width: 100%;
+    margin: 0;
+    padding: 10px;
+
+
+  }
+}
+@media screen and (max-width: 360px) {
+  div.bullets {
+     max-width: 100%;
+    margin: 0;
+    padding: 10px;
+
+
+  }
+}
