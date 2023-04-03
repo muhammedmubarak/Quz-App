@@ -169,7 +169,7 @@ function addQuestionData(obj, count) {
       radioInput.dataset.answer = obj[`answer_${i}`];
 
       //Make First Option Selected
-      if (i === 3) {
+      if (i === 0) {
         radioInput.checked = true;
       }
 
