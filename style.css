@@ -87,7 +87,13 @@ body {
   border-radius: 50%;
 }
 .quiz-app .bullets .spans span.on {
+  
   background-color: #0075ff;
+   border: 2px solid black;
+  outline: #4CAF50 solid 3px;
+  margin: auto;  
+  padding: 2px;
+  text-align: center;
 }
 .quiz-app .results span {
   font-weight: bold;
